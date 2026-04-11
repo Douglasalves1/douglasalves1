@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=black&text=Douglas%20alves&section=header&reversal=false&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Douglas%20Alves"
     alt="Douglas Alves"
   />
 </p>
@@ -10,7 +10,7 @@
 
 <hr style="border: 1px solid #30363d;">
 
-## 👋 Hey there, I’m Bryan!
+## 👋 Hey there, I’m Douglas!
 
 Welcome to my GitHub profile!  
 I am a student passionate about software engineering, always eager to learn, build, and unravel mysteries. My journey in the technology field began with my love for computing and my curiosity about solving problems and the many ways we can solve them, which led me to explore the fascinating world of programming.
