@@ -94,7 +94,7 @@ Practical study system designed to guide beginners from zero to their first juni
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="douglasanalistadesistema0@gmail.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
