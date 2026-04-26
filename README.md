@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Douglas%20Alves"
-    alt="Douglas Alves"
+    alt="Douglas Alves Oliveira"
   />
 </p>
 <p align="center">
